@@ -4,10 +4,6 @@ import termcolor
 from dataclasses import dataclass, field
 from sys import exit
 
-""" muhahaha """
-""" lalala """
-"""hohoho"""
-""" devedevelop"""
 
 @dataclass
 class Player:
