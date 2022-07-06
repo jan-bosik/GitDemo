@@ -5,6 +5,7 @@ from dataclasses import dataclass, field
 from sys import exit
 
 """ muhahaha """
+""" lalala """
 
 @dataclass
 class Player:
