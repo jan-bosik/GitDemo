@@ -6,6 +6,7 @@ from sys import exit
 
 """ muhahaha """
 """ lalala """
+"""hohoho"""
 
 @dataclass
 class Player:
